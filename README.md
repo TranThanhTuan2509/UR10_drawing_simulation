@@ -4,6 +4,9 @@
 - As the head title, the robot (UR10) will be automated to draw letter and i choose 5 letters ( A U E D Q ).
 - It still exists some deficiencies so please takes it as a reference.
 
+![CoppeliaSim Edu - newscene - rendering_ 8 ms (8 06 fps) - SIMULATION STOPPED 2024-04-14 22-24-53](https://github.com/TranThanhTuan2509/UR10_drawing_simulation/assets/119112296/b07afa33-a6e6-4aa4-94e3-27c4d7346241)
+
+
 # Requirements
 - Robot toolbox
 - Optimization toolbox and many other requirement-toolboxs you must download before working with matlab
