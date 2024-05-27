@@ -1,7 +1,7 @@
 # [UR10_DRAWING_SIMULATION]
 # Introduction
-- Hello guys, this is my-school's project in Kinematics and Dynamic subject.
-- As the head title, the robot (UR10) will be automated to draw letter and i choose 5 letters ( A U E D Q ).
+- Hello guys, this is my Kinematics and Dynamics project for a mid-term assessment.
+- As the head title, the robot (UR10) will be automated to draw letter and i chose 5 letters ( A U E D Q ).
 - It still exists some deficiencies so please takes it as a reference.
 
 ![CoppeliaSim Edu - newscene - rendering_ 8 ms (8 06 fps) - SIMULATION STOPPED 2024-04-14 22-24-53](https://github.com/TranThanhTuan2509/UR10_drawing_simulation/assets/119112296/b07afa33-a6e6-4aa4-94e3-27c4d7346241)
@@ -28,10 +28,10 @@
 - In coppeliaSim you have to set letter-waypoints for each letter and make sure it's corresponding with waypoint-variables in matlab.
 - Here is a picture of all letters' waypoints in coppeliaSim:
 ![image](https://github.com/TranThanhTuan2509/UR10_drawing_simulation/assets/119112296/3113c777-7a84-44d2-af2f-75e67f9ff3d7)
-- It looks little wierd, right?
 - Don't forget to connect coppeliaSim-API with matlab.
 
 # Result
 ![image](https://github.com/TranThanhTuan2509/UR10_drawing_simulation/assets/119112296/64b40dea-0e49-42d9-b9da-2f7fb8017fa4)
 
-- Ink is smeared while drawing the letter. i hope this can help you . Thanks for reading my project.
+- Ink is smeared while drawing the letter. take it as a reference .
+- Thanks for reading my project.
